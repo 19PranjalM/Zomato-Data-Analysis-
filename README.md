@@ -1,5 +1,5 @@
 # Zomato-Data-Analysis-
-
+For a better view of the file, click on: https://nbviewer.org/github/19PranjalM/Zomato-Data-Analysis-/blob/main/Zomato%20Data%20Analysis.ipynb
 # Problem Statement
 Analysis of the following is required by the Sales Director of Zomato Food Chain:
 1. Most famous Restaurant Chains in Bangalore.
